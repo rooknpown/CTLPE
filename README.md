@@ -5,6 +5,13 @@ This is the Pytorch implementation of CTLPE in the following paper:
 [Continuous-Time Linear Positional Embedding for Irregular Time Series Forecasting](https://arxiv.org/pdf/2409.20092), on the model [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/pdf/2012.07436).
 
 
+
+<p align="center">
+<img src=".\img\CTLPE.png" height = "360" alt="" align=center />
+<br><br>
+<b>Figure 1.</b> The overview of CTLPE.
+</p>
+
 ## Requirements
 
 - Python 3.6
